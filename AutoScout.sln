@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoScout", "AutoScout\AutoScout.csproj", "{5DC39374-7A61-4B29-B394-A52E3CFA399C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpsApiManager", "HttpsApiManager\HttpsApiManager.csproj", "{21CD75E5-BE81-4B56-A7B5-37AF77669BBF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpsApiLib", "HttpsApiManager\HttpsApiLib.csproj", "{21CD75E5-BE81-4B56-A7B5-37AF77669BBF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

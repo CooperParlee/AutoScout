@@ -14,8 +14,10 @@ namespace AutoScout
         {
             HttpsApiManager.InitApiClient();
 
-            BasicDataCall test = new BasicDataCall();
-            test.UpdateApiToken(Obfiscation.GetApiKey());
+            BasicDataCall test = new BasicDataCall(Obfiscation.GetApiKey());
+
+            test.GetTeamData(4564);
+            Console.Read();
         }
     }
 }
