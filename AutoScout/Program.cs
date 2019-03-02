@@ -12,7 +12,7 @@ namespace AutoScout
         
         static void Main(string[] args)
         {
-            HttpsApiManager.InitApiClient();
+            //HttpsApiManager.InitApiClient();
 
             BasicDataCall test = new BasicDataCall(Obfiscation.GetApiKey());
 
